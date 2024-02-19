@@ -30,7 +30,9 @@ Enabled users to filter data by product category, channel, and quarter, empoweri
 Utilized advanced formatting functions to enhance visual appeal and comprehension, ensuring a polished and professional dashboard.
 ## 🚀 Insights & Learnings:
 •	Identified peak sales months, aiding in inventory management.
+
 •	Pinpointed top-performing salespersons and products for targeted growth strategies.
+
 •	Enhanced decision-making with detailed channel and category-specific revenue breakdowns.
 
 
