@@ -1,4 +1,5 @@
 # Food-Beverage-Sale-Analysis-Dashboard-Power-BI-Project
+![Food   Beverage Sale](https://github.com/Kumar28494/Food-Beverage-Sale-Analysis-Dashboard-Power-BI-Project/assets/145334281/b0f2c3e8-713d-458e-b15f-92d6b269a227)
 
 ## 📊✨ Excited to Share: Food & Beverage Sale Analysis Dashboard Project! 🍽️📈
 🚀 Leveraging the Power of Power BI for Comprehensive Insights! 🌐💡
