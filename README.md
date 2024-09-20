@@ -9,7 +9,7 @@ Ensured data integrity with a seamless Extract, Transform, Load (ETL) process. C
 ### 🛑 Data Validation & Duplicate Removal: 
 Implemented stringent data validation checks to enhance accuracy. Identified and eliminated duplicate values, maintaining the integrity of our analyses.
 ### 📅 Date Formatting:
-Standardized date formats for uniformity, facilitating easier chronological analysis and visualization.
+Standardized date formats for uniformity, facilitating easier chronological analysis and visualization..
 ## 📊 Key Charts & Visualizations:
 ### 1.	Revenue and Order by Month/Quarter:
 Dynamic charts showcasing sales trends over time, aiding in strategic planning.
